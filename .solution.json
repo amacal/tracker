@@ -1,0 +1,16 @@
+﻿{
+    "folders": {
+        "output": "out",
+        "sources": "src",
+        "packages": "lib"
+    },
+    "packages": [{ 
+        "name": "NUnit", 
+        "version": "2.6.4",
+        "references": [ "lib\\NUnit.Framework.dll" ]
+    },
+    {
+        "name": "NUnit.Runners", 
+        "version": "2.6.4",
+    }]
+}

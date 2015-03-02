@@ -1,0 +1,7 @@
+﻿{
+	"metadata": {
+		"type": "exe"
+	},
+	"references": [ "System" ],
+	"dependencies": [ "tracker.engine" ]
+}

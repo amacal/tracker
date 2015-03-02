@@ -1,0 +1,7 @@
+﻿{
+	"references": [ "System", "System.Core" ],
+	"dependencies": [ "tracker.engine" ],
+	"packages": [
+        { "name": "NUnit", "version": "2.6.4" }
+    ]
+}
